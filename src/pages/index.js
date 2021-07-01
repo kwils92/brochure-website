@@ -9,8 +9,9 @@ const IndexPage = () => {
   return (
     <div>
     <Header /> 
+
     <main>
-      
+      <h2>Home</h2>
     </main>
     </div>
   )
