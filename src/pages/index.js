@@ -1,7 +1,7 @@
 import * as React from "react"
 
 import Header from '../components/header'
-import '../../public/index.css'
+import '../styles/index.css'
 import { Helmet } from "react-helmet"
 
 // markup
